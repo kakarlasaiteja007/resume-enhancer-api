@@ -1,0 +1,14 @@
+app:
+  name: Resume Enhancer API (Test)
+  version: 0.1.0
+  api_prefix: /api/v1
+  debug: false
+openai_model: gpt-5-mini
+openai_base_url: null
+openai_temperature: 0
+openai_max_tokens: 1000
+openai_timeout: 10
+openai_max_retries: 0
+openai_reasoning_effort: low
+max_keywords: 10
+database_url: sqlite://
